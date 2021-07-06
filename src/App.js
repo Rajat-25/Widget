@@ -18,7 +18,7 @@ const App = () => {
   ];
   return (
     <div>
-     <Acoordion items={items}/>
+     <Search/>
     </div>
   );
 };
